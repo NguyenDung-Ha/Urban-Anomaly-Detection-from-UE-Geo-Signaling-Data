@@ -19,9 +19,8 @@ The document provides:
 
 ## Data availability
 
-Only aggregated and anonymized statistics are reported. Subscriber-level
-GEO records are not publicly released because of operator confidentiality
-and mobility-privacy requirements.
+Only aggregated and anonymized statistics are reported. Subscriber-level GEO records are not publicly released because of operator confidentiality and mobility-privacy requirements.
+A small anonymized GEO-signaling sample file is publicly provided in `./` to illustrate the data schema and field semantics. The original private feed file, `datafeed.20251221-0300.csv.gz`, is not publicly released due to operator confidentiality and user privacy constraints, but can be made available to IEEE reviewers upon formal request under appropriate access-control conditions.
 
 ## Version
 
