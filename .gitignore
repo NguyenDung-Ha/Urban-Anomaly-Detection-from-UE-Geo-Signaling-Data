@@ -1,0 +1,10 @@
+# Private operator data
+data/private/
+data/raw/
+datafeed.*.csv.gz
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
